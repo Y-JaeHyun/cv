@@ -5,7 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
+    certificate: True
     # Profile information
     name: 유재현
     tagline: Software Developer
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: wogus3314@gmail.com
     phone: 010-2059-8320
-    website: http://bcnote3314.github.io/ #do not add http://
+    website: bcnote3314.github.io/ #do not add http://
     #linkedin: alandoe
     #xing: alandoe
     github: bcnote3314
@@ -39,9 +39,17 @@ education:
         명지대학교 컴퓨터공학과 학사, 학점 4.1/4.5 
           - Bullet point
           - Bullet point
+certificate:
+    - name: 정보처리기사
+      agency: 한국산업인력공단
+      date: 20...
+    - name: SQLD(SQL 개발자)
+      agency: 한국데이터산업진흥원
+      date: 20
+      
 experiences:
     - role: 5G 통신망 트래픽 처리를 위한 100Gbps 고성능 IPS 개발
-      time: 2019.07 - Present
+      time: 2019.07 - Current
       company: (주)Wins (Pangyo, Republic of Korea)
       details: |
         차세대 제품군 개발 및 릴리즈
@@ -53,98 +61,104 @@ experiences:
         6. NUMA Memory Alloc...
         7. 기타 성능 부하 포인트 분석 및 개선
           - 관련 기술 : C, Python, DPDK, Linux, Vtune...
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: NTT Docomo Replace 사업 TFT
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        NTT Docomo IPS 대체 사업
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
           - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: IPS 상태 체크 프로세스 개발
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        snmp..
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
           - Bullet point
+    - role: ONE 3.0 제품화 TFT
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        ONE 3.0 제품화
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point
+    - role: User Recognition 기능 개발
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        UR 기능 개발
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point
+    - role: Application Recognition 기능 개발
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        AR 기능 개발
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point
+    - role: 로그 수집/통계 데이터 생성 프로세스 개선
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        로그 개선
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point
+    - role: ONE 제품군 정기 릴리즈 지원/고객사 대응
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        로그 개선
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
           - Bullet point
 projects:
-    title: Projects
+    title: Side Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: WUBU
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 마음껏 시키게 나는 짜장면!
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Shell Script
         level: 60%
+        
+      - name: Java
+        level: 30%
+        
+      - name: Javascript
+        level: 30%
+        
+      - name: git
+        level: 90%
 
+      - name: Linux
+        level: 90%
+        
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Yoo Jae Hyun
