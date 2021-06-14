@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: wogus3314@gmail.com
     phone: 010-2059-8320
-    website: bcnote3314.github.io/ #do not add http://
+    website: bcnote3314.github.io #do not add http://
     #linkedin: alandoe
     #xing: alandoe
     github: bcnote3314
@@ -30,11 +30,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      (주)Wins (Pangyo, Republic of Korea), 2015.07 ~ Current / 침입방지 시스템 개발
+      (주)Wins (Pangyo, Republic of Korea), 침입방지 시스템 개발, 2015.07 ~ Current
 education:
     - degree: 컴퓨터 공학과, 학사
       university: 명지대학교
-      time: 2010 - 2016
+      time: 2010.03 ~ 2016.02
       details: |
         명지대학교 컴퓨터공학과 학사, 학점 4.1/4.5 
           - Bullet point
@@ -42,15 +42,16 @@ education:
 certificate:
     - name: 정보처리기사
       agency: 한국산업인력공단
-      date: 20...
+      date: 2016.05.06
     - name: SQLD(SQL 개발자)
       agency: 한국데이터산업진흥원
-      date: 20
+      date: 2014.10.20
       
 experiences:
     - role: 5G 통신망 트래픽 처리를 위한 100Gbps 고성능 IPS 개발
-      time: 2019.07 - Current
+      time: 2019.07 ~ Current
       company: (주)Wins (Pangyo, Republic of Korea)
+      link: bcnote3314.github.io
       details: |
         차세대 제품군 개발 및 릴리즈
         1. 멀티 스레드 환경에서 Cache Miss를 유발하는 코드에 대한 Refactoring
@@ -130,10 +131,10 @@ projects:
     assignments:
       - title: WUBU
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "주식 자동 매매 퀀트 프로젝트"
       - title: 마음껏 시키게 나는 짜장면!
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "소규모 그룹 음식 추천 서비스"
 
 skills:
     title: Skills &amp; Proficiency
