@@ -51,80 +51,43 @@ experiences:
     - role: 5G 통신망 트래픽 처리를 위한 100Gbps 고성능 IPS 개발
       time: 2019.07 ~ Current
       company: (주)Wins (Pangyo, Republic of Korea)
-      link: bcnote3314.github.io
+      link: bcnote3314.github.io/experiences/2021/06/16/5G-%ED%86%B5%EC%8B%A0%EB%A7%9D-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B3%A0%EC%84%B1%EB%8A%A5-IPS-%EA%B0%9C%EB%B0%9C/
       details: |
-        차세대 제품군 개발 및 릴리즈
-        1. 멀티 스레드 환경에서 Cache Miss를 유발하는 코드에 대한 Refactoring
-        2. QoS 기능 성능 개선
-        3. Classifier... 를 뭐라고쓰지
-        4. OS 옵션값에 따른 성능 변화 분석
-        5. DPDK RSS Hash...
-        6. NUMA Memory Alloc...
-        7. 기타 성능 부하 포인트 분석 및 개선
-          - 관련 기술 : C, Python, DPDK, Linux, Vtune...
-    - role: NTT Docomo Replace 사업 TFT
-      time: ...
+        고성능 IPS 제품 개발 및 릴리즈 지원
+    - role: NTT Docomo 대개체 사업 TFT
+      time: 2017.07 ~ 2018.05
       company: (주)Wins (Pangyo, Republic of Korea)
+      link: bcnote3314.github.io/experiences/2018/05/31/NTT-Docomo-대개체-사업-TFT/
       details: |
-        NTT Docomo IPS 대체 사업
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: IPS 상태 체크 프로세스 개발
-      time: ...
+        NTT Docomo의 노후된 IPS 장비 대게체 사업 대응
+    - role: IPS Management Process 개발
+      time: 2017.06 ~ 2017.08
       company: (주)Wins (Pangyo, Republic of Korea)
+      link: bcnote3314.github.io/experiences/2017/08/31/IPS-Management-Process-%EA%B0%9C%EB%B0%9C/
       details: |
-        snmp..
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: ONE 3.0 제품화 TFT
-      time: ...
+        네트워크 보안장비를 관리하기 위한 SNMP Process의 신규 개발
+    - role: Sniper ONE 3.0 제품화 TFT
+      time: 2016.10 ~ 2017.02
       company: (주)Wins (Pangyo, Republic of Korea)
+      link: bcnote3314.github.io/experiences/2017/02/28/Sniper-ONE-3.0-%EC%A0%9C%ED%92%88%ED%99%94-TFT/
       details: |
-        ONE 3.0 제품화
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: User Recognition 기능 개발
-      time: ...
+        차세대 IPS 제품군 Sniper ONE 3.0 제품화를 위한 TFT
+    - role: 차세대 IPS 제품군 기능 개발
+      time: 2016.06 ~ 2016.12
       company: (주)Wins (Pangyo, Republic of Korea)
+      link: bcnote3314.github.io/experiences/2016/12/31/%EC%B0%A8%EC%84%B8%EB%8C%80-IPS-%EC%A0%9C%ED%92%88%EA%B5%B0-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C/
       details: |
-        UR 기능 개발
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: Application Recognition 기능 개발
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        AR 기능 개발
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
+        Gartner에서 정의한 NGIPS에서 주요 쟁점으로 거론된 기능에 대한 개발
     - role: 로그 수집/통계 데이터 생성 프로세스 개선
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
       details: |
         로그 개선
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
     - role: ONE 제품군 정기 릴리즈 지원/고객사 대응
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
       details: |
         로그 개선
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
 projects:
     title: Side Projects
     intro: >
