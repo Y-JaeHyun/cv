@@ -78,16 +78,12 @@ experiences:
       link: bcnote3314.github.io/experiences/2016/12/31/%EC%B0%A8%EC%84%B8%EB%8C%80-IPS-%EC%A0%9C%ED%92%88%EA%B5%B0-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C/
       details: |
         Gartner에서 정의한 NGIPS에서 주요 쟁점으로 거론된 기능에 대한 개발
-    - role: 로그 수집/통계 데이터 생성 프로세스 개선
-      time: ...
+    - role: IPS 제품군 정기 릴리즈 지원 / 고객사 대응
+      time: 2015.07 ~ Current
       company: (주)Wins (Pangyo, Republic of Korea)
+      link: bcnote3314.github.io/experiences/2015/07/01/IPS-%EC%A0%9C%ED%92%88%EA%B5%B0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EC%A7%80%EC%9B%90-%EB%B0%8F-%EA%B3%A0%EA%B0%9D%EC%82%AC-%EB%8C%80%EC%9D%91/
       details: |
-        로그 개선
-    - role: ONE 제품군 정기 릴리즈 지원/고객사 대응
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        로그 개선
+        제품 정기 릴리즈 지원 / 고객사 이슈 분석 대응
 projects:
     title: Side Projects
     intro: >
